@@ -8,12 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: Evater
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://evater.github.io
+url: https://summer811.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
